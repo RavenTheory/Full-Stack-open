@@ -1,2 +1,2 @@
 # Full-Stack-open
-Repository for the course at fullstackopen.com 
+Repository for a full stack course.
